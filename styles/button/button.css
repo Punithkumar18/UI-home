@@ -1,0 +1,101 @@
+.w-button{
+
+    font-weight: 400;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid rgb(231, 240, 153);
+    padding: 0.5rem 0.75rem;
+    font-size: 1rem;
+    color:black;
+    text-transform: uppercase;
+    background-color: transparent;
+    margin:1rem;
+
+}
+
+
+.default{
+   border: 1px solid black;
+   padding: 0.25rem;
+}
+.primary{
+    border: 1px solid blue;
+    padding: 0.25rem;
+
+}
+.secondary{
+    border:1px solid rgb(255, 230, 0);
+    padding: 0.25rem;
+
+}
+.disabled{
+    border: 1px solid red;
+    padding: 0.25rem;
+
+}
+.link{
+    border: 1px solid orange ;
+    padding: 0.25rem;
+
+}
+
+.btn-row{
+    margin: 3rem;
+    padding: 1rem;
+}
+
+
+/* styled buttons Buttons with Icons */
+.btn{
+    background-color: rgb(28, 136, 245);
+    border:none;
+    color:white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor:pointer;
+    margin:1rem;
+}
+
+.btn:hover{
+    background-color: royalblue;
+}
+
+
+.round{
+    border-radius: 50%;
+    width:30px;
+    height: 30px;
+    margin:40px;
+    color:green;
+
+
+}
+
+.button:hover{
+    background-color:pink;
+}
+
+.button:active {
+    background-color: green; 
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+.rd-btn{
+    color:white;
+    background-color:red;
+
+}
+
+.wh-btn{
+    color: green;
+    background-color: white;
+
+
+}
+
+.bl-btn{
+
+    background-color:blue;
+    color:white;
+}
