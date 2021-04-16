@@ -1,0 +1,12 @@
+.responsive{
+    width:100%;
+    height: auto;
+    max-width: 800px;
+}
+
+.roundimage{
+    border-radius:50%;
+    width:100px;
+    height:100px;
+
+}

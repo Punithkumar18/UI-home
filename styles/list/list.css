@@ -1,0 +1,17 @@
+.list-group{
+    display: flex;
+    flex-direction: column;
+}
+
+.list-item{
+    padding: 1rem 1rem;
+    border: 1px solid black;
+}
+.list{
+    list-style: none;
+
+}
+
+.spaced{
+    margin-bottom: 1rem;
+}

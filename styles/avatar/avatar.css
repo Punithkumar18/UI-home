@@ -1,0 +1,27 @@
+.avatar {
+
+
+
+    vertical-align: middle;
+    border-radius: 50%;
+    padding: 0.2rem ;
+    margin-bottom: 1rem;
+    border: 1px solid rgb(0, 81, 128);
+    
+    
+}
+
+.avatar-small{
+    width: 30px;
+    height: 30px;
+}
+
+.avatar-medium{
+    width: 60px;
+    height: 60px;
+}
+
+.avatar-big{
+    width:100px;
+    height:100px;
+}

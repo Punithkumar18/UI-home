@@ -1,0 +1,16 @@
+@import  url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import  url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+@import  url('/styles/avatar/avatar.css');
+@import  url('/styles/image/images.css');
+@import  url("/styles/main.css");
+@import  url("/styles/alert/alert.css");
+@import  url("/styles/button/button.css");
+@import  url("/styles/badge/badge.css");
+@import  url("/styles/nav/nav.css");
+@import  url("/styles/input/input.css");
+@import  url("/styles/list/list.css");
+@import  url("/styles/modal/modal.css");
+@import  url("/styles/cards/cards.css");
+@import  url("/styles/rating/rating.css");
+@import  url("/styles/toast/toast.css");
